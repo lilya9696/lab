@@ -19,3 +19,15 @@
 *.exe
 *.out
 *.app
+*.sdf
+*.suo
+*.user
+*.manifest
+*.lastbuildstate
+*.log
+*.unsuccessfulbuild
+*.cache
+*.tlog
+*.idb
+*.pdb
+*.ipch
